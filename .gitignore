@@ -1,0 +1,13 @@
+# Data files
+*.xlsx
+*.xls
+*.csv
+
+# Output
+*.pdf
+*.zip
+*.docx
+
+# Environment
+.DS_Store
+.Rhistory
